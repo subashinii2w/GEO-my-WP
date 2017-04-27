@@ -69,7 +69,7 @@ Together with other great features like auto locating user's current location, d
 
 Forms builder in the admin settings make it easier to build you own forms; And you can build as many as you wish.
 
-* Choose between post type or buddypress shortcose. 
+* Choose between post type or buddypress shortcode. 
 * Post type Forms accept single or multiple post types that will appear in a dropdown menu.
 * For single post type you can add the categories of the post type to filter results.
 * For buddypress you can choose any or all profile fields to filter results.
@@ -140,7 +140,7 @@ For screenshots please visit [GEO my WP](http://www.geomywp.com)
 * Fix: Include full address value in item object to prevent showing N/A instead of the address in some cases.
 * Update: license updater system. Improves automatic updates and license keys activation. 
 * Update: sanitize address fields.
-* Tweak: added support for multiselect_custom_taxonomy field of the plugin Buddypress Xprofile Custom Fields Type ( special thanks to Miguel LÛpez <miguel@donmik.com> the author of Buddypress Xprofile Custom Fields Type plugin ).
+* Tweak: added support for multiselect_custom_taxonomy field of the plugin Buddypress Xprofile Custom Fields Type ( special thanks to Miguel L√≥pez <miguel@donmik.com> the author of Buddypress Xprofile Custom Fields Type plugin ).
 * New: Members Locator's search form and search results template files for Kleo theme.
 
 = 2.6.6.3 =
@@ -287,7 +287,7 @@ For screenshots please visit [GEO my WP](http://www.geomywp.com)
 - Improved structure of search forms and search results Stylesheet
 - Added missing space when displaying taxonomies in search results
 - Improve "Gray" search forms and results template files.
-- New, responsive search form and results templates: Purple for "Posts Locator" and "Yellow" for "Members locator”.
+- New, responsive search form and results templates: Purple for "Posts Locator" and "Yellow" for "Members locator√ì.
 
 = 2.4.1 = 
 
